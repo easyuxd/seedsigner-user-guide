@@ -8,15 +8,15 @@ When you are finished signing or managing keys, discard the seed from memory. Th
 
 1. Navigate to **Seeds** → select the loaded seed → **Discard Seed**.
 
-   ![Discard option](/images/DiscardSeedSelectView.png)
+   ![Discard option](../images/DiscardSeedSelectView.png)
 
 2. Confirm by selecting **Discard**.
 
-   ![Confirm discard](/images/DiscardSeedMainMenuView.png)
+   ![Confirm discard](../images/DiscardSeedMainMenuView.png)
 
 3. You are returned to the main menu with no seed loaded.
 
-   ![Main menu](/images/MainMenuView.png)
+   ![Main menu](../images/MainMenuView.png)
 
 ## What happens
 

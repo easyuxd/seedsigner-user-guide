@@ -12,31 +12,31 @@ You need a seed [loaded into SeedSigner](/using-seedsigner/load-seed.md).
 
 1. From the loaded seed menu, select **Backup Seed** → **Export as SeedQR**.
 
-   ![Backup seed](/images/BackupSeedSelectView.png)
+   ![Backup seed](../images/BackupSeedSelectView.png)
 
-   ![Export as SeedQR](/images/ExportAsSeedQRSelectView.png)
+   ![Export as SeedQR](../images/ExportAsSeedQRSelectView.png)
 
 2. Choose a format:
    - **Standard (25x25)** — larger QR, easier to hand-draw and scan.
    - **Compact (21x21)** — smaller QR, requires more precise transcription.
 
-   ![Format selection](/images/SeedTranscribeSeedQRFormatView.png)
+   ![Format selection](../images/SeedTranscribeSeedQRFormatView.png)
 
 3. Read the security warning and confirm. The QR contains your complete private key.
 
-   ![SeedQR warning](/images/SeedTranscribeSeedQRWarningView.png)
+   ![SeedQR warning](../images/SeedTranscribeSeedQRWarningView.png)
 
 4. SeedSigner displays the full QR code. Select **Begin** to start the section-by-section transcription view.
 
-   ![Full QR](/images/SeedTranscribeSeedQRWholeQRView_12_Standard.png)
+   ![Full QR](../images/SeedTranscribeSeedQRWholeQRView_12_Standard.png)
 
 5. Use the joystick to navigate through zoomed sections of the QR. Carefully transcribe each section onto paper, a metal plate, or another durable medium.
 
-   ![Zoomed view](/images/SeedTranscribeSeedQRZoomedInView_12_Standard.png)
+   ![Zoomed view](../images/SeedTranscribeSeedQRZoomedInView_12_Standard.png)
 
 6. When finished, you have two options:
 
-   ![Confirm prompt](/images/SeedTranscribeSeedQRConfirmQRPromptView.png)
+   ![Confirm prompt](../images/SeedTranscribeSeedQRConfirmQRPromptView.png)
 
    - **Confirm SeedQR** — the camera opens so you can scan your hand-drawn QR to verify it reads correctly.
    - **Done** — skip verification and return to the seed menu.
@@ -47,11 +47,11 @@ You need a seed [loaded into SeedSigner](/using-seedsigner/load-seed.md).
 
 **Success** — Your transcription is accurate and will scan correctly in the future.
 
-![Verification success](/images/SeedTranscribeSeedQRConfirmSuccessView.png)
+![Verification success](../images/SeedTranscribeSeedQRConfirmSuccessView.png)
 
 **Failure** — The scanned QR does not match. Re-examine your transcription for errors and try again.
 
-![Verification failure](/images/SeedTranscribeSeedQRConfirmWrongSeedView.png)
+![Verification failure](../images/SeedTranscribeSeedQRConfirmWrongSeedView.png)
 
 ## Printable templates
 

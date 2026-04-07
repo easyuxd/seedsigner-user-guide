@@ -13,13 +13,13 @@ You export the xpub once, scan it into your coordinator, and from that point for
 
 1. From the loaded seed's menu, select **Export Xpub**.
 
-   ![Seed menu](/images/SeedMenuView.png)
+   ![Seed menu](../images/SeedMenuView.png)
 
 2. Choose the **signature type**:
    - **Single Sig** — for a standard personal wallet controlled by one key.
    - **Multisig** — for a multi-signature wallet requiring multiple keys.
 
-   ![Signature type](/images/SeedExportXpubSigTypeView.png)
+   ![Signature type](../images/SeedExportXpubSigTypeView.png)
 
 3. Choose the **script type** (address format):
 
@@ -29,23 +29,23 @@ You export the xpub once, scan it into your coordinator, and from that point for
    | Nested SegWit | P2SH (3...) | Compatibility with older wallets |
    | Taproot | bech32m (bc1p...) | Advanced privacy and scripting |
 
-   ![Script type](/images/SeedExportXpubScriptTypeView.png)
+   ![Script type](../images/SeedExportXpubScriptTypeView.png)
 
 4. Select your **coordinator wallet software** from the list (Sparrow, BlueWallet, Specter, etc.).
 
-   ![Coordinator selection](/images/SeedExportXpubCoordinatorView.png)
+   ![Coordinator selection](../images/SeedExportXpubCoordinatorView.png)
 
 5. Read the **privacy warning** and press **I Understand**.
 
-   ![Privacy warning](/images/SeedExportXpubWarningView.png)
+   ![Privacy warning](../images/SeedExportXpubWarningView.png)
 
 6. Review the xpub details, then select **Export Xpub** to display the QR code.
 
-   ![Xpub details](/images/SeedExportXpubDetailsView.png)
+   ![Xpub details](../images/SeedExportXpubDetailsView.png)
 
 7. Scan the QR code with your coordinator's camera (for example, in Sparrow: File → New Wallet → Airgapped Hardware Wallet → SeedSigner → Scan).
 
-   ![Xpub QR code](/images/SeedExportXpubQRView.png)
+   ![Xpub QR code](../images/SeedExportXpubQRView.png)
 
 > **Warning:** Your xpub reveals every address and the full transaction history of your wallet. Treat it as private information. Never post it publicly or share it with anyone you do not trust.
 

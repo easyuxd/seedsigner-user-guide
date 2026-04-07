@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <meta name="theme-color" content="#f6851b">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
   <style>
     :root {
       --theme-color: #f6851b;
@@ -64,7 +64,8 @@
     window.$docsify = {
       name: '<img src="images/SeedSigner_Logo.png" alt="SeedSigner" />',
       nameLink: '/',
-      repo: 'https://github.com/SeedSigner/seedsigner',
+      //repo: 'https://github.com/SeedSigner/seedsigner',
+      loadNavbar: true,
       loadSidebar: true,
       subMaxLevel: 3,
       auto2top: true,
@@ -86,6 +87,7 @@
       },
       themeColor: '#f6851b',
       notFoundPage: true,
+      sidebarDisplayLevel: 1,  // Only show top-level by defaul
     }
   </script>
   <!-- Docsify v4 -->
@@ -95,5 +97,7 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-progress-bar@1/dist/plugin.min.js"></script>
 </body>
 </html>

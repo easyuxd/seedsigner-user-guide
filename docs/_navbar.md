@@ -1,0 +1,3 @@
+- [Website](https://seedsigner.com)
+- [GitHub](https://github.com/SeedSigner/seedsigner)
+- [Community](https://t.me/SeedSigner)

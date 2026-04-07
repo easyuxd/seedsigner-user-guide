@@ -12,13 +12,13 @@ Use this when you have your seed words written on paper or stamped in metal.
 
 1. From the main menu, select **Seeds** → **Load a Seed**.
 
-   ![Seeds menu](/images/SeedsOptionSelectView.png)
+   ![Seeds menu](../images/SeedsOptionSelectView.png)
 
-   ![Load a seed](/images/LoadASeedMainOptionSelectView.png)
+   ![Load a seed](../images/LoadASeedMainOptionSelectView.png)
 
 2. Choose **Enter 12-word seed** or **Enter 24-word seed**.
 
-   ![Seed length](/images/LoadASeedMainMenuView.png)
+   ![Seed length](../images/LoadASeedMainMenuView.png)
 
 3. Type each word using the on-screen keyboard:
    - Use the joystick to move between letters.
@@ -26,13 +26,13 @@ Use this when you have your seed words written on paper or stamped in metal.
    - **Key C** — move down in the suggestion list.
    - **Key B** — select the highlighted suggestion.
 
-   ![Word entry](/images/SeedWordEnterView.png)
+   ![Word entry](../images/SeedWordEnterView.png)
 
 > **Tip:** You only need to type the first 2--3 letters of each word. The suggestion list narrows quickly, making entry much faster.
 
 4. After entering all words, review the **seed fingerprint** on the Finalize Seed screen. This short identifier is unique to your seed and helps you confirm you entered the right one.
 
-   ![Finalize seed](/images/SeedFinalizeView.png)
+   ![Finalize seed](../images/SeedFinalizeView.png)
 
 5. Choose your next step:
    - **Done** — Load the seed as-is.
@@ -46,15 +46,15 @@ Use this when you have a SeedQR code — a compact QR that encodes your entire s
 
 1. From the main menu, select **Scan**.
 
-   ![Main menu scan](/images/MainMenuView.png)
+   ![Main menu scan](../images/MainMenuView.png)
 
 2. Point the camera at your SeedQR code. Hold the device 6--12 inches away and keep it steady.
 
-   ![Scanning](/images/SeedQRScan.png)
+   ![Scanning](../images/SeedQRScan.png)
 
 3. SeedSigner automatically detects and decodes the QR. When successful, you see the Finalize Seed screen with your seed fingerprint.
 
-   ![Finalize](/images/SeedFinalizeView.png)
+   ![Finalize](../images/SeedFinalizeView.png)
 
 4. Select **Done** to load the seed, or add a BIP-39 passphrase first.
 

@@ -12,16 +12,16 @@ You need a seed [loaded into SeedSigner](/using-seedsigner/load-seed.md).
 
 1. From the main menu, select **Seeds** → choose your loaded seed → **Address Explorer**.
 
-   ![Select seed](/images/SeedOptionSelectView.png)
+   ![Select seed](../images/SeedOptionSelectView.png)
 
-   ![Address explorer](/images/AddressExplorerSelectView.png)
+   ![Address explorer](../images/AddressExplorerSelectView.png)
 
 2. Choose a **script type** (address format):
    - **Native SegWit** (bc1q...) — recommended, lowest fees
    - **Nested SegWit** (3...) — compatible with older wallets
    - **Taproot** (bc1p...) — advanced privacy features
 
-   ![Script type options](/images/ScriptTypeOptions.png)
+   ![Script type options](../images/ScriptTypeOptions.png)
 
 ---
 
@@ -31,15 +31,15 @@ Receiving addresses are the ones you share with others to accept payments.
 
 1. Select **Receive addresses**.
 
-   ![Receive option](/images/ReceiveAddressOptionSelectView.png)
+   ![Receive option](../images/ReceiveAddressOptionSelectView.png)
 
 2. Browse the paginated list (10 addresses per page). Use the joystick to scroll.
 
-   ![Address list](/images/AddressExplorerReceiverAddressListView.png)
+   ![Address list](../images/AddressExplorerReceiverAddressListView.png)
 
 3. Select any address to display its QR code for sharing.
 
-   ![Address QR](/images/AddressExplorerQRView.png)
+   ![Address QR](../images/AddressExplorerQRView.png)
 
 > **Tip:** Use a fresh receiving address for each transaction. Reusing addresses reduces your privacy because it links multiple payments together on the public blockchain.
 
@@ -51,11 +51,11 @@ Change addresses receive the leftover funds from a transaction. Your wallet mana
 
 1. Select **Change addresses** instead of Receive.
 
-   ![Change option](/images/ChangeAddressOptionSelectView.png)
+   ![Change option](../images/ChangeAddressOptionSelectView.png)
 
 2. Browse and select addresses the same way as receiving addresses.
 
-   ![Change address list](/images/AddressExplorerChangeAddressListView.png)
+   ![Change address list](../images/AddressExplorerChangeAddressListView.png)
 
 ---
 

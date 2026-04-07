@@ -22,7 +22,7 @@ Once the boot process finishes, a message appears on screen telling you that you
 
 After dismissing the message, you land on the main menu. From here you can create seeds, scan QR codes, access tools, and configure settings.
 
-![SeedSigner main menu showing Seeds, Scan, Tools, and Settings options](/images/MainMenuView.png)
+![SeedSigner main menu showing Seeds, Scan, Tools, and Settings options](../images/MainMenuView.png)
 
 ## Remove the SD card for maximum security
 

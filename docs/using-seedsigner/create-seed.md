@@ -22,35 +22,35 @@ This method uses environmental entropy captured by the camera — pixel data, pr
 
 1. From the main menu, select **Tools**.
 
-   ![Main menu with Tools option highlighted](/images/ToolsOptionSelectView.png)
+   ![Main menu with Tools option highlighted](../images/ToolsOptionSelectView.png)
 
 2. Select **New Seed** (camera icon).
 
-   ![Tools menu showing New Seed options for camera and dice](/images/ToolsMenuView.png)
+   ![Tools menu showing New Seed options for camera and dice](../images/ToolsMenuView.png)
 
 3. Point the camera at a random, moving scene (trees, clouds, traffic). Press any key to capture.
 
-   ![Camera viewfinder capturing environmental entropy](/images/SeedCameraEntropyView.png)
+   ![Camera viewfinder capturing environmental entropy](../images/SeedCameraEntropyView.png)
 
 4. Review the captured image. Push the joystick **left** to retake, or **right** to accept.
 
-   ![Entropy preview](/images/SeedEntropyPreviewView.png)
+   ![Entropy preview](../images/SeedEntropyPreviewView.png)
 
 5. Choose **12 words** or **24 words**.
 
-   ![Seed length selection showing 12-word and 24-word options](/images/SeedMnemonicLengthView.png)
+   ![Seed length selection showing 12-word and 24-word options](../images/SeedMnemonicLengthView.png)
 
 6. Read the security warning and press **I Understand**.
 
-   ![Security warning](/images/SeedWarningView.png)
+   ![Security warning](../images/SeedWarningView.png)
 
 7. **Write down every word** in exact order. Words display four at a time. Double-check each one.
 
-   ![Generated seed words displayed four at a time](/images/SeedMnemonicEntryView.png)
+   ![Generated seed words displayed four at a time](../images/SeedMnemonicEntryView.png)
 
 8. Complete the **backup verification** quiz. SeedSigner asks you to confirm specific words to prove your written backup is correct.
 
-   ![Backup verification quiz prompting for a specific seed word](/images/SeedBackupTestView.png)
+   ![Backup verification quiz prompting for a specific seed word](../images/SeedBackupTestView.png)
 
 > **Warning:** If you write even one word incorrectly, you could permanently lose access to your Bitcoin. Never skip the verification step. If you see an error, see [Error messages](/troubleshooting/error-messages.md) for help.
 
@@ -63,21 +63,21 @@ Physical dice produce true randomness that cannot be influenced by software bugs
 1. From the main menu, select **Tools**.
 2. Select **New Seed** (dice icon).
 
-   ![Dice method](/images/SeedGenerateDiceMethodView.png)
+   ![Dice method](../images/SeedGenerateDiceMethodView.png)
 
 3. Choose your seed length:
    - **12 words** = 50 dice rolls
    - **24 words** = 99 dice rolls
 
-   ![Dice seed length](/images/SeedMnemonicLengthDiceView.png)
+   ![Dice seed length](../images/SeedMnemonicLengthDiceView.png)
 
 4. Roll a standard six-sided die. On the screen, press the **joystick** in the direction of the number you rolled (1--6). Repeat for every roll.
 
-   ![Dice entry](/images/ToolsDiceEntropyEntryView.png)
+   ![Dice entry](../images/ToolsDiceEntropyEntryView.png)
 
 5. A progress bar shows how many rolls remain.
 
-   ![Dice progress](/images/ToolsDiceEntropyProgressView.png)
+   ![Dice progress](../images/ToolsDiceEntropyProgressView.png)
 
 6. Read the security warning and press **I Understand**.
 7. Write down all seed words and complete the backup verification.
@@ -92,11 +92,11 @@ If you want to choose your own words from the BIP-39 word list, this method lets
 
 1. From the main menu, select **Tools** → **Calc 12th/24th word**.
 
-   ![Calc method](/images/SeedGenerateCalcMethodView.png)
+   ![Calc method](../images/SeedGenerateCalcMethodView.png)
 
 2. Choose **12 words** or **24 words**.
 
-   ![Calc seed length](/images/SeedMnemonicLengthCalcView.png)
+   ![Calc seed length](../images/SeedMnemonicLengthCalcView.png)
 
 3. Enter each word using the on-screen keyboard:
    - **Key A** — move up in the suggestion list
@@ -104,11 +104,11 @@ If you want to choose your own words from the BIP-39 word list, this method lets
    - **Key B** — select the highlighted word
    - Type the first 2--3 letters and pick from suggestions for speed.
 
-   ![Word entry](/images/WordEntry.png)
+   ![Word entry](../images/WordEntry.png)
 
 4. After entering all words, choose how to generate entropy for the final word:
 
-   ![Finalize prompt](/images/ToolsCalcFinalWordFinalizePromptView.png)
+   ![Finalize prompt](../images/ToolsCalcFinalWordFinalizePromptView.png)
 
    - **Coin flips** — Flip a physical coin 7 times; enter heads (1) or tails (0) for each.
    - **Word selection** — Pick any word from the BIP-39 list as your entropy source.
@@ -116,7 +116,7 @@ If you want to choose your own words from the BIP-39 word list, this method lets
 
 5. SeedSigner displays the calculated final word along with the derivation details.
 
-   ![Final word display](/images/ToolsCalcFinalWordShowFinalWordView.png)
+   ![Final word display](../images/ToolsCalcFinalWordShowFinalWordView.png)
 
 6. Your complete seed phrase is now ready for backup and use.
 

@@ -15,15 +15,15 @@ When you want to send Bitcoin, your coordinator wallet builds an unsigned transa
 
 2. On SeedSigner, from the loaded seed's menu, select **Scan PSBT**. (You can also select **Scan** from the main menu.)
 
-   ![Scan PSBT](/images/SeedMainMenuPSBTSelectView.png)
+   ![Scan PSBT](../images/SeedMainMenuPSBTSelectView.png)
 
 3. Point SeedSigner's camera at the animated QR code on your computer screen. Use the live preview to aim. The device reads multiple frames and reassembles the full transaction.
 
-   ![PSBT camera](/images/SeedPSBTCameraView.png)
+   ![PSBT camera](../images/SeedPSBTCameraView.png)
 
 4. **Review the transaction carefully.** SeedSigner displays:
 
-   ![PSBT overview](/images/PSBTOverviewView.png)
+   ![PSBT overview](../images/PSBTOverviewView.png)
 
    Verify each of these items before proceeding:
 
@@ -36,11 +36,11 @@ When you want to send Bitcoin, your coordinator wallet builds an unsigned transa
 
 5. If multiple seeds are loaded, select the correct signing seed.
 
-   ![Select seed](/images/PSBTSelectSeedView.png)
+   ![Select seed](../images/PSBTSelectSeedView.png)
 
 6. If everything looks correct, select **Approve PSBT** to sign.
 
-   ![Finalize](/images/PSBTFinalizeView.png)
+   ![Finalize](../images/PSBTFinalizeView.png)
 
    SeedSigner adds the necessary signatures to the PSBT and encodes the result as a new animated QR code displayed on its screen.
 

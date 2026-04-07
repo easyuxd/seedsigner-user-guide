@@ -11,11 +11,11 @@ This is the recommended way to shut down.
 1. From the main menu, use the joystick to highlight the **power icon** in the top-right corner.
 2. Press any key (A, B, or C) to open the power options menu.
 
-![Power options menu showing Power Off and Restart choices](/images/PowerOptionsView.png)
+![Power options menu showing Power Off and Restart choices](../images/PowerOptionsView.png)
 
 3. Select **Power Off**.
 
-![Power off confirmation screen](/images/PowerOffView.png)
+![Power off confirmation screen](../images/PowerOffView.png)
 
 4. Confirm when prompted. The device shuts down.
 
@@ -32,7 +32,7 @@ If you want to clear temporary data without fully powering down and reconnecting
 1. From the main menu, highlight the **power icon** in the top-right corner and press any key.
 2. Select **Restart** from the power options menu.
 
-![Restart confirmation screen](/images/RestartView.png)
+![Restart confirmation screen](../images/RestartView.png)
 
 3. The device reboots automatically. You will see the splash screen and the SD card message again, just like a fresh boot.
 

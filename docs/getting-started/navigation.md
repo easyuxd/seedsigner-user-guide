@@ -4,7 +4,7 @@
 
 SeedSigner uses a simple set of physical controls — a joystick and three buttons. Once you understand how they work, navigating the interface is straightforward.
 
-![Waveshare LCD HAT showing joystick on the left and three buttons (A, B, C) on the right](/images/WaveShare_LCD_Hat.png)
+![Waveshare LCD HAT showing joystick on the left and three buttons (A, B, C) on the right](../images/WaveShare_LCD_Hat.png)
 
 ## Controls overview
 

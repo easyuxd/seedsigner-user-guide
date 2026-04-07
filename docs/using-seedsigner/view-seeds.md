@@ -8,21 +8,21 @@ You can display the seed words for any loaded seed and run a verification quiz t
 
 1. Navigate to **Seeds** → select your loaded seed → **Backup Seed** → **View Seed Words**.
 
-   ![Backup seed menu](/images/BackupSeedSelectView.png)
+   ![Backup seed menu](../images/BackupSeedSelectView.png)
 
-   ![View seed words](/images/ViewSeedWordsSelectView.png)
+   ![View seed words](../images/ViewSeedWordsSelectView.png)
 
 2. Read the security warning and press **I Understand**.
 
-   ![Seed words warning](/images/ViewSeedWordsWarningView.png)
+   ![Seed words warning](../images/ViewSeedWordsWarningView.png)
 
 3. Review your complete seed phrase, displayed four words at a time. Use the joystick to scroll through all words.
 
-   ![Seed words display](/images/SeedWordsView.png)
+   ![Seed words display](../images/SeedWordsView.png)
 
 4. Optionally, run the backup verification quiz to confirm your written copy matches. Select **Verify** to start, or **Skip** to return to the seed menu.
 
-   ![Backup test](/images/SeedBackupTestView.png)
+   ![Backup test](../images/SeedBackupTestView.png)
 
 > **Warning:** Only view seed words in a completely private location. Stay away from security cameras, other people, and any recording devices. Consider shielding the screen with your hand.
 
